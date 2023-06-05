@@ -1,0 +1,18 @@
+{
+  "module": {
+    "dashboard": "面板首页",
+    "blocks": "区块和交易",
+    "staking": "质押生息",
+    "governance": "社区治理",
+    "parameters": "参数",
+    "uptime": "状态"
+  },
+  "index": {
+    "slogan": "Ping Dashboard 是一个区块链浏览器，也是一个网页钱包，还有更多 ... 🛠",
+    "search_placeholder": "搜索区块链",
+    "add_to_favorite": "加入收藏夹"
+  },
+  "Ecosystem": "生态系统",
+  "All Blockchains": "全部区块链",
+  "Favorite": "收藏夹"
+}
